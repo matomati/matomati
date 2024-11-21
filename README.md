@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matomati!
 - 👀 I’m interested in C++, Lua, Python and Roblox Studio.
-- 🌱 I’m currently learning C++ and HTML.
+- 🌱 I’m currently learning Python and Lua.
 - 💞️ I’m looking to collaborate on: On Roblox Studio.
 - 📫 How to reach me: 
 - 😄 Pronouns: He/him/his
